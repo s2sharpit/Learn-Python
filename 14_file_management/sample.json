@@ -1,0 +1,17 @@
+{
+  "person": {
+    "name": "Luigi",
+    "has_job": false,
+    "salary": 10,
+    "friends": [
+      {
+        "name": "Mario",
+        "age": 40
+      },
+      {
+        "name": "Peach",
+        "age": 30
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Luigi",
+  "has_job": false,
+  "salary": 10,
+  "friends": ["Mario", "Peach"],
+  "blood_type": null
+}
